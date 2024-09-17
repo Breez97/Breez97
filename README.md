@@ -28,6 +28,7 @@ It's a pleasure to meet you. I'm Ilya Shamrov.
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 💻 Other Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -44,12 +45,15 @@ It's a pleasure to meet you. I'm Ilya Shamrov.
 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
 ## PROJECTS
 
 | Project Name   |      Description      |  Stack |
 |:----------:|:-------------:|:------:|
 | [Money Mind App](https://github.com/Breez97/Money-Mind-App) | <p align="justify">Web application for managing incomes, expenses and track payments for different types of subscriptions.</p> | <p align="justify">Java 17, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, Thymeleaf, Javax Validation API, PostgeSQL, Maven, Docker</p>|
-| [Help Service](https://github.com/Breez97/SmallHelpService) | <p align="justify">Small web application made with servlet and jsp.</p> | <p align="justify">Java 17, JSP, Tomcat, Maven, Docker</p>|
-| [Quiz App](https://github.com/Breez97/Quiz-App-Microservices) | <p align="justify">Simple application based on microservice architecture for creating quizzes from different type of questions.</p> | <p align="justify">Java 17, Spring, Spring Data JPA, Spring Boot, Spring Cloud (OpenFeign, Eureka Server, Eureka Client), PostgreSQL</p>|
+| [Help Service](https://github.com/Breez97/SmallHelpService) | <p align="justify">Web application made with servlet and jsp.</p> | <p align="justify">Java 17, JSP, Tomcat, Maven, Docker</p>|
+| [Quiz App](https://github.com/Breez97/Quiz-App-Microservices) | <p align="justify">Application based on microservice architecture for creating quizzes from different type of questions.</p> | <p align="justify">Java 17, Spring, Spring Data JPA, Spring Boot, Spring Cloud (OpenFeign, Eureka Server, Eureka Client), PostgreSQL</p>|
 | [Nutritionist-Bot](https://github.com/Breez97/Nutritionist-Bot) (Work in progress) | <p align="justify">The Nutrition  Bot is a Telegram bot that recommends calorie-optimized meal plans based on user dietary goals by gathering and scrawl information from the internet</p> | <p align="justify">Java 17, Spring Boot, Kafka, Maven, Docker, Microservice architecture</p>|
 | [School 21 Projects](https://github.com/Breez97/S21_CoreProgram) | (Repository contains information about all projects)
