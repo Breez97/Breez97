@@ -4,7 +4,7 @@ It's a pleasure to meet you. I'm Ilya Shamrov.
 
 - 🎓 I'm a student at RTU MIREA, a technological university.
 - 🔥 Passionate about mastering the art of building scalable and reliable solutions.
-- 💡 Currently exploring new technologies and working on various projects to sharpen my skills in backend development.
+- 💡 Exploring new technologies and working on various projects to sharpen my skills in backend development.
 - 🚀 Also I'm currently studying at [School 21](https://21-school.ru/), where I'm focusing on advanced programming concepts and technologies.
 - 💬 How to contact me:
 
@@ -55,5 +55,5 @@ It's a pleasure to meet you. I'm Ilya Shamrov.
 | [Money Mind App](https://github.com/Breez97/Money-Mind-App) | <p align="justify">Web application for managing incomes, expenses and track payments for different types of subscriptions.</p> | <p align="justify">Java 17, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, Thymeleaf, Javax Validation API, PostgeSQL, Maven, Docker.</p>|
 | [Help Service](https://github.com/Breez97/SmallHelpService) | <p align="justify">Web application made with servlet and jsp.</p> | <p align="justify">Java 17, JSP, Tomcat, Maven, Docker.</p>|
 | [Quiz App](https://github.com/Breez97/Quiz-App-Microservices) | <p align="justify">Application based on microservice architecture for creating quizzes from different type of questions.</p> | <p align="justify">Java 17, Spring, Spring Data JPA, Spring Boot, Spring Cloud (OpenFeign, Eureka Server, Eureka Client), PostgreSQL.</p>|
-| [Nutritionist-Bot](https://github.com/Breez97/Nutritionist-Bot) (Work in progress) | <p align="justify">The Nutrition  Bot is a Telegram bot that recommends calorie-optimized meal plans based on user dietary goals by gathering and scrawl information from the internet.</p> | <p align="justify">Java 17, Spring Boot, Kafka, Maven, Docker, Microservice architecture.</p>|
+| [Nutritionist-Bot](https://github.com/Breez97/Nutritionist-Bot) (Work in progress) | <p align="justify">The Nutrition  Bot is a Telegram bot that recommends calorie-optimized meal plans based on user dietary goals by gathering and scrawl information from the internet.</p> | <p align="justify">Java 17, Spring Boot, Kafka, Maven, Docker.</p>|
 | [School 21 Projects](https://github.com/Breez97/S21_CoreProgram) | (Repository contains information about all projects).
